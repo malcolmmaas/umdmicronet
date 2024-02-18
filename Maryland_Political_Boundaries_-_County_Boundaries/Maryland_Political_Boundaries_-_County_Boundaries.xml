@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin/>
+                <pubdate>20160901</pubdate>
+                <title>Maryland Political Boundaries - County Boundaries</title>
+                <onlink>https://geodata.md.gov/imap/rest/services/Boundaries/MD_PoliticalBoundaries/FeatureServer/1</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>Polygon features which represent the political boundary of each county in the State of Maryland.The Maryland Political County Boundaries were developed using USGS Topo Quads, boundaries submitted by each Maryland county, monument points, and historic records from the Maryland Archive. This data is used by various modules throughout the Maryland Department of Transportation (MDOT), as well as many other State and local government agencies for purposes such as planning, land use, transportation, data &amp;amp; asset collection, and cartographic product development.This data is updated and published on an annual (yearly) basis for the prior year.For additional information, contact the MDOT SHA Geospatial Technologies Team:For additional information related to the Maryland Department of Transportation (MDOT):GIS@mdot.state.md.ushttp://www.mdot.maryland.gov/For additional information related to the Maryland Department of Transportation State Highway Administration (MDOT SHA):http://www.roads.maryland.gov/Home.aspx MDOT SHA Geospatial Data Legal Disclaimer:The Maryland Department of Transportation State Highway Administration (MDOT SHA) makes no warranty, expressed or implied, as to the use or appropriateness of geospatial data, and there are no warranties of merchantability or fitness for a particular purpose or use. The information contained in geospatial data is from publicly available sources, but no representation is made as to the accuracy or completeness of geospatial data. MDOT SHA shall not be subject to liability for human error, error due to software conversion, defect, or failure of machines, or any material used in the connection with the machines, including tapes, disks, CD-ROMs or DVD-ROMs and energy. MDOT SHA shall not be liable for any lost profits, consequential damages, or claims against MDOT SHA by third parties.This is a MD iMAP hosted service. Find more information at https://imap.maryland.gov.Feature Service Link:https://geodata.md.gov/imap/rest/services/Boundaries/MD_PoliticalBoundaries/FeatureServer/1</abstract>
+            <purpose>Maryland Political Boundaries - County Boundaries</purpose>
+        </descript>
+        <status>
+            <update>As needed</update>
+        </status>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>County</themekey>
+                <themekey>Counties</themekey>
+                <themekey>County Boundary</themekey>
+                <themekey>County Boundaries</themekey>
+                <themekey>Political Boundary</themekey>
+                <themekey>Political Boundaries</themekey>
+                <themekey>Boundary</themekey>
+                <themekey>Boundaries</themekey>
+                <themekey>Statewide</themekey>
+                <themekey>Maryland</themekey>
+                <themekey>MD</themekey>
+                <themekey>Maryland Department of Transportation</themekey>
+                <themekey>MDOT</themekey>
+                <themekey>Maryland Department of Transportation State Highway Administration</themekey>
+                <themekey>MDOT SHA</themekey>
+                <themekey>State Highway Administration</themekey>
+                <themekey>SHA</themekey>
+                <themekey>Office of Planning and Preliminary Engineering</themekey>
+                <themekey>OPPE</themekey>
+                <themekey>Data Services Division</themekey>
+                <themekey>DSD</themekey>
+                <themekey>BNDY</themekey>
+                <themekey>MD iMAP</themekey>
+                <themekey>Vector</themekey>
+                <themekey>Dynamic</themekey>
+                <themekey>WFS</themekey>
+                <themekey>WMS</themekey>
+                <themekey>KML</themekey>
+                <themekey>2015</themekey>
+                <themekey>ZIP Codes</themekey>
+                <themekey>ZIP</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>The Spatial Data, and the information therein, (collectively the "Data") is provided "as is" without warranty of any kind, either expressed, implied, or statutory. The user assumes the entire risk as to quality and performance of the Data. No guarantee of accuracy is granted, nor is any responsibility for reliance thereon assumed. In no event shall the State of Maryland be liable for direct, indirect, incidental, consequential or special damages of any kind. The State of Maryland does not accept liability for any damages or misrepresentation caused by inaccuracies in the Data or as a result to changes to the Data, nor is there responsibility assumed to maintain the Data in any manner or form. The Data can be freely distributed as long as the metadata entry is not modified or deleted. Any data derived from the Data must acknowledge the State of Maryland in the metadata.</useconst>
+        <datacred>Maryland Department of Transportation, MDOT, Maryland Department of Transportation State Highway Administration, MDOT SHA, Department of Information Technology, DoIT, Maryland iMap, MDiMAP,</datacred>
+    </idinfo>
+    <metainfo>
+        <metd>20171221</metd>
+        <metc>
+            <cntinfo>
+                <!--no contact person or organization name available-->
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
